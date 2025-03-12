@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Weponsv
+- 👀 I’m interested in programming and gaming
+- 🌱 I’m currently learning Python, Linux and other
+- 💞️ I’m looking to collaborate on smth
